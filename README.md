@@ -1,1 +1,9 @@
 Sejam bem vindos ao Labe-commerce, esse repositório contém um esqueleto de app React e um .gitignore.
+
+Projeto LabeCommerce
+Andressa Darzé, David Henrique, Ayrton Medrano
+Surge: https://black-tail.surge.sh/
+
+O que não funciona:
+Não conseguimos fazer a componente de carrinho de compras.
+O filtro de ordenação dos produtos só funciona quando o estado é alterado manualmente. Não conseguimos fazer a comunicação do botão funcionar.
